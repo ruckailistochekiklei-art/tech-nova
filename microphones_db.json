@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1401,
+    "title": "Мікрофон Fifine Q6",
+    "price": 2299,
+    "oldPrice": null,
+    "category": "Мікрофони",
+    "folder": "fifine_q6",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Конденсаторний",
+      "Підключення": "USB Type-C",
+      "Спрямованість": "Кардіоїдна",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 1402,
+    "title": "Мікрофон Fifine Q6TW",
+    "price": 2999,
+    "oldPrice": null,
+    "category": "Мікрофони",
+    "folder": "fifine_q6tw",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Конденсаторний",
+      "Підключення": "USB Type-C",
+      "Спрямованість": "Кардіоїдна",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 1403,
+    "title": "Мікрофон Fifine AM8",
+    "price": 4499,
+    "oldPrice": null,
+    "category": "Мікрофони",
+    "folder": "fifine_am8",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Динамічний",
+      "Підключення": "3.5 мм, USB Type-C, XLR",
+      "Спрямованість": "Кардіоїдна",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 1404,
+    "title": "Мікрофон Fifine AM8T Black",
+    "price": 4999,
+    "oldPrice": null,
+    "category": "Мікрофони",
+    "folder": "fifine_am8t_black",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Динамічний",
+      "Підключення": "3.5 мм, USB Type-C, XLR",
+      "Спрямованість": "Кардіоїдна",
+      "Колір": "Чорний"
+    }
+  }
+]

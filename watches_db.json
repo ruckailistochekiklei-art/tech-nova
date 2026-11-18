@@ -1,0 +1,62 @@
+[
+  {
+    "id": 301,
+    "title": "Смарт-годинник Xiaomi Redmi Watch 6 Lite Black",
+    "price": 3499,
+    "oldPrice": null,
+    "category": "Годинники",
+    "folder": "xiaomi_redmi_watch_6_lite",
+    "photosCount": 3,
+    "specs": {
+      "Екран": "AMOLED",
+      "Автономність": "до 18 днів",
+      "Вологозахист": "5 ATM",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 302,
+    "title": "Смарт-годинник Mibro GT Silver",
+    "price": 3799,
+    "oldPrice": null,
+    "category": "Годинники",
+    "folder": "mibro_gt_silver",
+    "photosCount": 3,
+    "specs": {
+      "Екран": "AMOLED",
+      "Автономність": "до 8 днів",
+      "Вологозахист": "5 ATM",
+      "Колір": "Сріблястий"
+    }
+  },
+  {
+    "id": 303,
+    "title": "Смарт-годинник Amazfit Active 2S Premium Black",
+    "price": 5999,
+    "oldPrice": null,
+    "category": "Годинники",
+    "folder": "amazfit_active_2s_premium",
+    "photosCount": 3,
+    "specs": {
+      "Екран": "AMOLED",
+      "Автономність": "до 10 днів",
+      "Вологозахист": "5 ATM",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 304,
+    "title": "Смарт-годинник Apple Watch Series 12 GPS 46mm Black",
+    "price": 24999,
+    "oldPrice": 27199,
+    "category": "Годинники",
+    "folder": "apple_watch_series_12",
+    "photosCount": 3,
+    "specs": {
+      "Екран": "OLED",
+      "Автономність": "до 24 годин",
+      "Вологозахист": "5 ATM",
+      "Колір": "Чорний"
+    }
+  }
+]

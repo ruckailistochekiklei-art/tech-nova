@@ -568,3 +568,38 @@ body {
         border-top: 5px solid #4a76d4; 
     }
 }
+
+.product-card-custom {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+.product-card-custom:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.badge-top {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 10px;
+    font-weight: bold;
+    z-index: 2;
+}
+
+
+.stars {
+    color: #ffc107;
+    font-size: 12px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-bg {
+
+}

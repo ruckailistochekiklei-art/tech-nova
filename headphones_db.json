@@ -1,0 +1,62 @@
+[
+  {
+    "id": 501,
+    "title": "Навушники OneOdio Pro 10 Silver",
+    "price": 1989,
+    "oldPrice": null,
+    "category": "Навушники",
+    "folder": "oneodio_pro_10_silver",
+    "photosCount": 2,
+    "specs": {
+      "Тип": "Накладні",
+      "Підключення": "Дротове",
+      "Мікрофон": "Є",
+      "Колір": "Сріблястий"
+    }
+  },
+  {
+    "id": 502,
+    "title": "Навушники OneOdio Monitor 60 Black",
+    "price": 4499,
+    "oldPrice": null,
+    "category": "Навушники",
+    "folder": "oneodio_monitor_60_black",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Накладні",
+      "Підключення": "Дротове",
+      "Мікрофон": "Є",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 503,
+    "title": "Навушники OneOdio Monitor 80 Black",
+    "price": 5199,
+    "oldPrice": null,
+    "category": "Навушники",
+    "folder": "oneodio_monitor_80_black",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Накладні",
+      "Підключення": "Дротове",
+      "Мікрофон": "Немає",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 504,
+    "title": "Навушники OneOdio Studio H Black",
+    "price": 1999,
+    "oldPrice": null,
+    "category": "Навушники",
+    "folder": "oneodio_studio_h_black",
+    "photosCount": 2,
+    "specs": {
+      "Тип": "Накладні",
+      "Підключення": "Дротове",
+      "Мікрофон": "Є",
+      "Колір": "Чорний"
+    }
+  }
+]

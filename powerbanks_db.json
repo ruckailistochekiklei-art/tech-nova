@@ -1,0 +1,62 @@
+[
+  {
+    "id": 401,
+    "title": "Універсальна мобільна батарея Sigma mobile X-Power Si30A7QLX 30000mAh Silver",
+    "price": 2899,
+    "oldPrice": null,
+    "category": "Powerbank",
+    "folder": "sigma_si30a7qlx",
+    "photosCount": 3,
+    "specs": {
+      "Ємність": "30000 мАг",
+      "Порти": "3",
+      "Потужність": "30W",
+      "Колір": "Сріблястий"
+    }
+  },
+  {
+    "id": 402,
+    "title": "Універсальна мобільна батарея Proove Giant 100W 40000mAh Black",
+    "price": 3899,
+    "oldPrice": null,
+    "category": "Powerbank",
+    "folder": "proove_giant_100w",
+    "photosCount": 3,
+    "specs": {
+      "Ємність": "40000 мАг",
+      "Порти": "3",
+      "Потужність": "100W",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 403,
+    "title": "Універсальна мобільна батарея Proove Hyper Flux Plus 22.5W 20000mAh Black",
+    "price": 2199,
+    "oldPrice": null,
+    "category": "Powerbank",
+    "folder": "proove_hyper_flux_plus",
+    "photosCount": 2,
+    "specs": {
+      "Ємність": "20000 мАг",
+      "Порти": "3",
+      "Потужність": "22.5W",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 404,
+    "title": "Універсальна мобільна батарея Proove Hoodman Magnetic 20W 10000mAh Gray",
+    "price": 1899,
+    "oldPrice": null,
+    "category": "Powerbank",
+    "folder": "proove_hoodman_20w",
+    "photosCount": 3,
+    "specs": {
+      "Ємність": "10000 мАг",
+      "Порти": "1",
+      "Потужність": "20W",
+      "Колір": "Сірий"
+    }
+  }
+]

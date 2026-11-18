@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1601,
+    "title": "Плита Gorenje GK5C50XHF",
+    "price": 22199,
+    "oldPrice": null,
+    "category": "Плити",
+    "folder": "gorenje_gk5c50xhf",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Комбінована",
+      "Конфорки": "4",
+      "Матеріал": "Емаль",
+      "Колір": "Сріблястий"
+    }
+  },
+  {
+    "id": 1602,
+    "title": "Плита Gorenje GK6A40WFFM",
+    "price": 19199,
+    "oldPrice": null,
+    "category": "Плити",
+    "folder": "gorenje_gk6a40wffm",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Комбінована",
+      "Конфорки": "4",
+      "Матеріал": "Емаль",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 1603,
+    "title": "Плита Gorenje GEC5A41WG електрична",
+    "price": 19499,
+    "oldPrice": null,
+    "category": "Плити",
+    "folder": "gorenje_gec5a41wg",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Електрична",
+      "Конфорки": "4",
+      "Матеріал": "Склокераміка",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 1604,
+    "title": "Плита Gorenje GK5C43SH",
+    "price": 20099,
+    "oldPrice": null,
+    "category": "Плити",
+    "folder": "gorenje_gk5c43sh",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Комбінована",
+      "Конфорки": "4",
+      "Матеріал": "Емаль",
+      "Колір": "Сріблястий"
+    }
+  }
+]

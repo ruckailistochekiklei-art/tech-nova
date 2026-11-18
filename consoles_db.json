@@ -1,0 +1,61 @@
+[
+  {
+    "id": 601,
+    "title": "Зарядна станція HyperX ChargePlay Duo для Sony PlayStation 5",
+    "price": 1099,
+    "oldPrice": null,
+    "category": "Ігрові консолі",
+    "folder": "hyperx_chargeplay_duo",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Зарядна станція",
+      "Сумісність": "PlayStation 5",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 602,
+    "title": "Пристрій для дистанційної гри Sony PlayStation Portal Remote Player Midnight Black",
+    "price": 13166,
+    "oldPrice": null,
+    "category": "Ігрові консолі",
+    "folder": "sony_playstation_portal",
+    "photosCount": 3,
+    "specs": {
+      "Екран": "8\"",
+      "Роздільна здатність": "1920x1080",
+      "Сумісність": "PlayStation 5",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 603,
+    "title": "Ігрова приставка Sony PlayStation 5 Slim Blu-ray",
+    "price": 35782,
+    "oldPrice": null,
+    "category": "Ігрові консолі",
+    "folder": "sony_playstation_5_slim",
+    "photosCount": 3,
+    "specs": {
+      "Процесор": "AMD Ryzen Zen 2",
+      "Пам'ять": "1 ТБ SSD",
+      "Привід": "Blu-ray",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 604,
+    "title": "Ігрова консоль Valve Steam Deck 1TB",
+    "price": 73397,
+    "oldPrice": null,
+    "category": "Ігрові консолі",
+    "folder": "valve_steam_deck",
+    "photosCount": 3,
+    "specs": {
+      "Процесор": "AMD Zen 2",
+      "Пам'ять": "1 ТБ SSD",
+      "Екран": "7\"",
+      "ОС": "SteamOS"
+    }
+  }
+]

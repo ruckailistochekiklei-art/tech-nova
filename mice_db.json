@@ -1,0 +1,58 @@
+[
+  {
+    "id": 801,
+    "title": "Мишка Canyon Puncher CND-SGM20W White USB",
+    "price": 885,
+    "oldPrice": null,
+    "category": "Мишки",
+    "folder": "canyon_puncher_white",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Дротове підключення",
+      "Сенсор": "Оптичний",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 802,
+    "title": "Мишка Modecom Veles Volcano White (M-MC-VELES-200)",
+    "price": 529,
+    "oldPrice": null,
+    "category": "Мишки",
+    "folder": "modecom_veles_white",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Дротове підключення",
+      "Сенсор": "Оптичний",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 803,
+    "title": "Мишка Apple Magic Mouse Multi-Touch Surface White",
+    "price": 3499,
+    "oldPrice": null,
+    "category": "Мишки",
+    "folder": "apple_magic_mouse_white",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Дротове + бездротове",
+      "Сенсор": "Оптичний",
+      "Колір": "Білий"
+    }
+  },
+  {
+    "id": 804,
+    "title": "Мишка + килимок Defender Argo GM-049 Black",
+    "price": 265,
+    "oldPrice": null,
+    "category": "Мишки",
+    "folder": "defender_argo_black",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Дротове підключення",
+      "Сенсор": "Оптичний",
+      "Колір": "Чорний"
+    }
+  }
+]

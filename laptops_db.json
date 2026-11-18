@@ -1,0 +1,62 @@
+[
+  {
+    "id": 701,
+    "title": "Ноутбук Lenovo LOQ 15ARP10E (83S000ETRA) Luna Grey",
+    "price": 59999,
+    "oldPrice": null,
+    "category": "Ноутбуки",
+    "folder": "lenovo_loq_15arp10e",
+    "photosCount": 3,
+    "specs": {
+      "Процесор": "AMD Ryzen 7 170",
+      "Відеокарта": "GeForce RTX4050",
+      "Екран": "15.6\"",
+      "Колір": "Сірий"
+    }
+  },
+  {
+    "id": 702,
+    "title": "Ноутбук MSI Thin 15 B13VE-348XUA Cosmos Gray",
+    "price": 52999,
+    "oldPrice": null,
+    "category": "Ноутбуки",
+    "folder": "msi_thin_15_b13ve",
+    "photosCount": 3,
+    "specs": {
+      "Процесор": "Intel Core i5-13420H",
+      "Відеокарта": "GeForce RTX4050",
+      "Екран": "15.6\"",
+      "Колір": "Сірий"
+    }
+  },
+  {
+    "id": 703,
+    "title": "Ноутбук Gigabyte Gaming A16 (CMH+2UA894SD) Black Steel",
+    "price": 64999,
+    "oldPrice": null,
+    "category": "Ноутбуки",
+    "folder": "gigabyte_gaming_a16",
+    "photosCount": 3,
+    "specs": {
+      "Процесор": "Intel Core i7-13620H",
+      "Відеокарта": "GeForce RTX4050",
+      "Екран": "16\"",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 704,
+    "title": "Ноутбук Asus TUF Gaming F16 FX607VJB-RL104 (90NR0MZ6-M005L0) Mecha Gray",
+    "price": 52999,
+    "oldPrice": null,
+    "category": "Ноутбуки",
+    "folder": "asus_tuf_gaming_f16",
+    "photosCount": 3,
+    "specs": {
+      "Процесор": "Intel Core 5 210H",
+      "Відеокарта": "GeForce RTX3050",
+      "Екран": "16\"",
+      "Колір": "Сірий"
+    }
+  }
+]

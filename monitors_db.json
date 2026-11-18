@@ -1,0 +1,62 @@
+[
+  {
+    "id": 901,
+    "title": "Монітор ASGARD Gaming 24.5\" AS255QF IPS Black 300Hz",
+    "price": 5999,
+    "oldPrice": null,
+    "category": "Монітори",
+    "folder": "asgard_as255qf",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "24.5\"",
+      "Роздільна здатність": "Full HD (1920x1080)",
+      "Частота": "300 Гц",
+      "Матриця": "IPS"
+    }
+  },
+  {
+    "id": 902,
+    "title": "Монітор MSI 27\" MAG 272QPF E20 Black IPS Black 200Hz",
+    "price": 10099,
+    "oldPrice": null,
+    "category": "Монітори",
+    "folder": "msi_mag_272qpf",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "27\"",
+      "Роздільна здатність": "WQHD (2560x1440)",
+      "Частота": "200 Гц",
+      "Матриця": "IPS"
+    }
+  },
+  {
+    "id": 903,
+    "title": "Монітор Asus 27\" ROG Strix XG27UCGR (90LM0C501B371) IPS Black 485Hz",
+    "price": 21999,
+    "oldPrice": null,
+    "category": "Монітори",
+    "folder": "asus_rog_strix_xg27ucgr",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "27\"",
+      "Роздільна здатність": "4K Ultra HD (3840x2160)",
+      "Частота": "485 Гц",
+      "Матриця": "IPS"
+    }
+  },
+  {
+    "id": 904,
+    "title": "Монітор Prologix Gaming 24.5\" G2525HU IPS Black 200Hz",
+    "price": 4199,
+    "oldPrice": null,
+    "category": "Монітори",
+    "folder": "prologix_g2525hu",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "24.5\"",
+      "Роздільна здатність": "Full HD (1920x1080)",
+      "Частота": "200 Гц",
+      "Матриця": "IPS"
+    }
+  }
+]

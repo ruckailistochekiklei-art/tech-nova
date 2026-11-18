@@ -1,0 +1,62 @@
+[
+  {
+    "id": 201,
+    "title": "Фотокамера миттєвого друку Fujifilm Instax Wide 400",
+    "price": 7949,
+    "oldPrice": null,
+    "category": "Фотоапарати",
+    "folder": "fujifilm_wide_400",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Миттєвий друк",
+      "Розмір знімка": "86x108 мм",
+      "Живлення": "Батарейки AA",
+      "Вага": "480 г"
+    }
+  },
+  {
+    "id": 202,
+    "title": "Фотокамера миттєвого друку Fujifilm Instax Mini 13 Clay White",
+    "price": 4949,
+    "oldPrice": null,
+    "category": "Фотоапарати",
+    "folder": "fujifilm_mini_13_white",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Миттєвий друк",
+      "Розмір знімка": "54x86 мм",
+      "Живлення": "Батарейки AA",
+      "Вага": "310 г"
+    }
+  },
+  {
+    "id": 203,
+    "title": "Фотокамера миттєвого друку Fujifilm Instax Mini 13 Lagoon Green",
+    "price": 4949,
+    "oldPrice": null,
+    "category": "Фотоапарати",
+    "folder": "fujifilm_mini_13_green",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Миттєвий друк",
+      "Розмір знімка": "54x86 мм",
+      "Живлення": "Батарейки AA",
+      "Вага": "310 г"
+    }
+  },
+  {
+    "id": 204,
+    "title": "Камера моментального друку Fujifilm Instax SQ40 Black",
+    "price": 7999,
+    "oldPrice": null,
+    "category": "Фотоапарати",
+    "folder": "fujifilm_sq40_black",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Миттєвий друк",
+      "Розмір знімка": "62x62 мм",
+      "Живлення": "Батарейки CR2",
+      "Вага": "450 г"
+    }
+  }
+]

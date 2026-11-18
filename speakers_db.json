@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1001,
+    "title": "Акустична система Xiaomi Sound Pocket Black (QBH4269GL)",
+    "price": 999,
+    "oldPrice": null,
+    "category": "Колонки",
+    "folder": "xiaomi_sound_pocket",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Портативна",
+      "Підключення": "Бездротове",
+      "Потужність": "5 Вт",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 1002,
+    "title": "Акустична система JBL PartyBox 330 Black (JBLPB330BLKEP)",
+    "price": 21999,
+    "oldPrice": null,
+    "category": "Колонки",
+    "folder": "jbl_partybox_330",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Портативна",
+      "Підключення": "Дротове + бездротове",
+      "Потужність": "280 Вт",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 1003,
+    "title": "Акустична система REAL-EL X-747 Black",
+    "price": 3799,
+    "oldPrice": null,
+    "category": "Колонки",
+    "folder": "real_el_x747",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Портативна",
+      "Підключення": "Bluetooth 5.0",
+      "Потужність": "50 Вт",
+      "Колір": "Чорний"
+    }
+  },
+  {
+    "id": 1004,
+    "title": "Акустична система Anker SoundCore Boom 2 Plus Blue (A3134032)",
+    "price": 9699,
+    "oldPrice": null,
+    "category": "Колонки",
+    "folder": "anker_boom_2_plus",
+    "photosCount": 3,
+    "specs": {
+      "Тип": "Портативна",
+      "Підключення": "Дротове + бездротове",
+      "Потужність": "140 Вт",
+      "Колір": "Синій"
+    }
+  }
+]

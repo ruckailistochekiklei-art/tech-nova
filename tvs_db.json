@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1201,
+    "title": "Телевізор Xiaomi TV A Pro 43 2026 43\" 4K UHD (3840x2160) QLED",
+    "price": 14999,
+    "oldPrice": null,
+    "category": "Телевізори",
+    "folder": "xiaomi_tv_a_pro_43",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "43\"",
+      "Роздільна здатність": "4K UHD",
+      "Матриця": "QLED",
+      "Smart TV": "Google TV"
+    }
+  },
+  {
+    "id": 1202,
+    "title": "Телевізор Mystery MTV-5060UDT2 50\" 4K UHD (3840x2160) LED",
+    "price": 13599,
+    "oldPrice": null,
+    "category": "Телевізори",
+    "folder": "mystery_mtv_5060udt2",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "50\"",
+      "Роздільна здатність": "4K UHD",
+      "Матриця": "LED",
+      "Smart TV": "Android 11"
+    }
+  },
+  {
+    "id": 1203,
+    "title": "Телевізор TCL 55C6K 55\" 4K UHD (3840x2160) Mini-LED",
+    "price": 37999,
+    "oldPrice": null,
+    "category": "Телевізори",
+    "folder": "tcl_55c6k",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "55\"",
+      "Роздільна здатність": "4K UHD",
+      "Матриця": "Mini-LED",
+      "Smart TV": "Google TV"
+    }
+  },
+  {
+    "id": 1204,
+    "title": "Телевізор Xiaomi TV A Pro 32 2026 32\" HD (1366x768) QLED",
+    "price": 8499,
+    "oldPrice": null,
+    "category": "Телевізори",
+    "folder": "xiaomi_tv_a_pro_32",
+    "photosCount": 3,
+    "specs": {
+      "Діагональ": "32\"",
+      "Роздільна здатність": "HD",
+      "Матриця": "QLED",
+      "Smart TV": "Google TV"
+    }
+  }
+]
